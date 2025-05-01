@@ -1,0 +1,6 @@
+opencv-python
+numpy
+SpeechRecognition 
+textblob 
+tk
+pyaudio
